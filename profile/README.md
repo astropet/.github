@@ -1,12 +1,10 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
+## 🚀 × About Us
+We are a group of people building the next era of pet essentials.
 
-**Here are some ideas to get you started:**
+## ⌨️ × Contributing
+Be nice in PRs and PR comments, don't yell at people for something "stupid" they may have done. Make sure to allow everyone to speak their mind, don't call a feature stupid just becuase you don't like it; everyone likes (or wants) different things.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 🔒 × Maintainers
+Theese people maintain the various projects & review pull reuqests. Message them on Discord or email if you need help or want to ask a question. Don't annoy them, they are very buisy people with more importaint things to deal with.
